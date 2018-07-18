@@ -7,3 +7,5 @@
 - The links to images in train, dev and test txt files are the links to the Img subfolders in the original [DeepFashion dataset](https://drive.google.com/drive/folders/0B7EVK8r0v71pWGplNFhjc01NbzQ).
 
 
+If you are using this data please cite:
+- Liu, Ziwei, Ping Luo, Shi Qiu, Xiaogang Wang, and Xiaoou Tang. "Deepfashion: Powering robust clothes recognition and retrieval with rich annotations." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1096-1104. 2016.
