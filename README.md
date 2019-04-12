@@ -8,4 +8,5 @@
 
 
 If you are using this data please cite:
+- Zakizadeh, Roshanak, Michele Sasdelli, Yu Qian, and Eduard Vazquez. "Improving the Annotation of DeepFashion Images for Fine-grained Attribute Recognition." arXiv preprint arXiv:1807.11674 (2018).
 - Liu, Ziwei, Ping Luo, Shi Qiu, Xiaogang Wang, and Xiaoou Tang. "Deepfashion: Powering robust clothes recognition and retrieval with rich annotations." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1096-1104. 2016.
