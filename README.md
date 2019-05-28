@@ -1,4 +1,4 @@
-## Extended Annotations of DeepFashion Images for Fine-grained Recognition
+## Corrected Annotations of DeepFashion Images for Fine-grained Recognition
 
 - Each folder contains the train, test and dev (validation) sets of images for a category of clothes from Deepfashion dataset.
 
